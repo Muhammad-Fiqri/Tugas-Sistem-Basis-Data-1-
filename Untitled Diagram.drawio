@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="lwDeEY2JYYdrH5nlkBoJ">
-    <mxGraphModel dx="2314" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="2173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-17" value="PK: ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="10" width="70" height="40" as="geometry" />
+          <mxGeometry x="640" y="10" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="1TiUZI-1H1YMYdZX2LC2-2" target="1TiUZI-1H1YMYdZX2LC2-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -224,7 +224,7 @@
             <mxPoint x="590" y="60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="755" y="80" />
-              <mxPoint x="655" y="80" />
+              <mxPoint x="675" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -255,7 +255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-23" value="FK: UID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="715" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1TiUZI-1H1YMYdZX2LC2-2" target="1TiUZI-1H1YMYdZX2LC2-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -263,7 +263,6 @@
             <mxPoint x="770" y="60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="755" y="80" />
-              <mxPoint x="740" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -331,7 +330,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-77" value="Meminjam" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="715" y="255" width="80" height="80" as="geometry" />
+          <mxGeometry x="690" y="255" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ixt7KDWkkDkSaDbi-yvk-7" value="Akun Pemberi Pinjaman" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="440" width="170" height="60" as="geometry" />
