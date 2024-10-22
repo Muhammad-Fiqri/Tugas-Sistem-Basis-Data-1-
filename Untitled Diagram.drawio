@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="lwDeEY2JYYdrH5nlkBoJ">
-    <mxGraphModel dx="1157" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2314" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,9 +59,7 @@
             <Array as="points">
               <mxPoint x="1200" y="140" />
               <mxPoint x="1200" />
-              <mxPoint x="1250" />
-              <mxPoint x="1250" y="-40" />
-              <mxPoint x="1300" y="-40" />
+              <mxPoint x="1300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,7 +136,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1TiUZI-1H1YMYdZX2LC2-3" target="1TiUZI-1H1YMYdZX2LC2-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="470" />
+              <mxPoint x="1060" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1TiUZI-1H1YMYdZX2LC2-3" target="1TiUZI-1H1YMYdZX2LC2-65" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -288,8 +291,8 @@
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-33" value="is_in_debt" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="-20" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1TiUZI-1H1YMYdZX2LC2-34" value="is_in_debt_known" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="1TiUZI-1H1YMYdZX2LC2-34" value="IIDK" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-35" value="salary_count" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="100" width="80" height="40" as="geometry" />
@@ -298,7 +301,7 @@
           <mxGeometry x="1320" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-59" value="created_at" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1295" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="1295" y="520" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-60" value="full_name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="570" width="80" height="40" as="geometry" />
@@ -318,17 +321,26 @@
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-65" value="is_can_invest" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1300" y="330" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1TiUZI-1H1YMYdZX2LC2-66" value="is_can_invest_known" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="390" width="160" height="40" as="geometry" />
+        <mxCell id="1TiUZI-1H1YMYdZX2LC2-66" value="ICIK" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-67" value="bank_no" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1295" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="1300" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1TiUZI-1H1YMYdZX2LC2-77" target="1TiUZI-1H1YMYdZX2LC2-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1TiUZI-1H1YMYdZX2LC2-77" value="Meminjam" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="715" y="255" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ixt7KDWkkDkSaDbi-yvk-7" value="Akun Pemberi Pinjaman" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ixt7KDWkkDkSaDbi-yvk-8" value="Akun Peminjam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ixt7KDWkkDkSaDbi-yvk-9" value="Authenticator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
